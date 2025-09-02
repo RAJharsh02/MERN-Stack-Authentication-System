@@ -110,9 +110,7 @@ Launch Compass:open /Applications/MongoDB\ Compass.app
 Connect to your Atlas cluster using the connection string.
 
 Step 4: Clone the Repository
-Clone the project from GitHub:
-git clone https://github.com/utk1725/MERN-Stack-Authentication-System.git
-cd MERN-Stack-Authentication-System
+Clone the project from GitHub
 
 Step 5: Set Up Environment Variables
 Backend
